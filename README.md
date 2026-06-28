@@ -1,5 +1,5 @@
 # Hi, I'm Noor ul Hassan 👋
-### Data Science Enthusiast | Python Developer | Aspiring AI/ML Engineer
+### Data Science Enthusiast | Python Developer | Aspiring Data Analyst
 
 ---
 
@@ -9,15 +9,15 @@
 - 📊 Passionate about turning raw data into meaningful insights
 - 🐍 Working with **Python, Pandas, NumPy, Matplotlib & Seaborn**
 - 🤖 Completed industry simulations at **Deloitte, Nvidia & JPMorgan Chase**
-- 🌱 Currently exploring **Machine Learning & AI** concepts
-- 💡 Transitioned from Web Development → **Data Science & AI**
+- 🌱 Currently exploring **Machine Learning & Statistical Analysis**
+- 💡 Transitioned from Web Development → **Data Science**
 - 📬 Open to internship opportunities & collaborations!
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data Science & AI**
+**Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -42,24 +42,12 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏏 [IPL 2022 Data Analysis](https://github.com/hassanqurashiOO7/-data-visualization-ipl) | Sports analytics — team performance, player stats & match outcome visualizations | Pandas, Seaborn, Matplotlib |
-| 🛒 [Superstore Sales EDA](https://github.com/hassanqurashiOO7/superstore-sales-eda) | Business intelligence — sales trends, profit margins & regional analysis | Pandas, NumPy, Matplotlib |
-| 🎬 [Netflix & TMDB Data Cleaning](https://github.com/hassanqurashiOO7/netflix-tmdb-data-cleaning) | End-to-end data wrangling pipeline for large-scale entertainment datasets | Pandas, NumPy |
-| 🚀 [Crypto Price Tracker](https://github.com/hassanqurashiOO7/crypto-price-tracker) | Real-time BTC/ETH price monitoring tool via live API integration | Python, REST API |
-| 🥩 [MeatHub Premium](https://github.com/hassanqurashiOO7) | Full-stack Halal meat e-commerce platform with real-time order tracking | Next.js, PostgreSQL, Stripe |
-
----
-
 ## 🏆 Certifications & Experience
 
-- 📊 **Data Analytics Job Simulation** — Deloitte via Forage (May 2026)
-- 🤖 **Introduction to Data for Decision Makers** — Nvidia via Forage (June 2026)
-- 📈 **Quantitative Research Job Simulation** — JPMorgan Chase via Forage (May 2026)
-- 🧠 **Claude AI 101** — Anthropic (2026)
+- 📊 **Data Analytics Job Simulation** — Deloitte via Forage *(May 2026)*
+- 🤖 **Introduction to Data for Decision Makers** — Nvidia via Forage *(June 2026)*
+- 📈 **Quantitative Research Job Simulation** — JPMorgan Chase via Forage *(May 2026)*
+- 🧠 **Claude AI 101** — Anthropic *(2026)*
 - 🐍 **NumPy, Pandas & Matplotlib Certifications** — Coursera / Simplilearn
 
 ---
@@ -68,7 +56,7 @@
 
 ![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanqurashiOO7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanqurashiOO7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanqurashiOO7&theme=dark&hide_border=false&layout=compact)
 
 ---
 
